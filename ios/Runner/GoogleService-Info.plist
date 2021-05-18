@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>608626514466-car8k1j4kc93vm0gnd3jvt9p67qphhb3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.608626514466-car8k1j4kc93vm0gnd3jvt9p67qphhb3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkOtsQisll3saDWbadwhWdqTBHoFjeqUI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>608626514466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.healthcare</string>
+	<key>PROJECT_ID</key>
+	<string>testflutterflow-f4275</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testflutterflow-f4275.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:608626514466:ios:0647ed24e2181ec904c87b</string>
+</dict>
+</plist>

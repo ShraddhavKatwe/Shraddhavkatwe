@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608626514466",
+    "project_id": "testflutterflow-f4275",
+    "storage_bucket": "testflutterflow-f4275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608626514466:android:f514f8f3be7df0a704c87b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608626514466-tbc0lar1im2078aq0ekhr8v2gjpp2i5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyDxwoh6XWrfUv93nzfn9hWqbcHUsbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608626514466-tbc0lar1im2078aq0ekhr8v2gjpp2i5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
